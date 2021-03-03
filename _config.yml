@@ -1,9 +1,9 @@
 # Site settings
-title: b站/微博：@风雪一程载归程 
-SEOTitle: 柠檬碎碎念
+title:  柠檬碎碎念
+SEOTitle: 第440号柠檬个人制作与分享的教程汇聚地
 header-img: img/post-bg-desk.jpg
 email: ziningking@foxmail.com
-description: "第440号柠檬个人制作与分享的教程汇聚地"
+description: "b站/微博：@风雪一程载归程"
 keyword: "PS, AE, 艺术字, VLOG"
 url: "https://lemon440.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
