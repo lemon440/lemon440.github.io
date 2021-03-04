@@ -11,7 +11,7 @@ github_repo: "https://github.com/lemon440/lemon440.github.io.git" # you code rep
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "做一朵奔涌的浪花"
+sidebar-about-description: "流星白羽光出匣，一剑无痕雪漫山。"
 sidebar-avatar: /img/taibaishaonv.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
